@@ -1,6 +1,6 @@
-# 🔬 **Skin Cancer Diagnostic Suite (FYP)**
+# 🔬 **Skin Cancer Diagnostic Suite**
 
-**An AI-powered medical imaging tool developed for a Final Year Project (FYP). This application utilizes deep learning to classify skin lesions with high precision, comparing five distinct architectures.**
+**An AI-powered medical imaging tool developed for a Project. This application utilizes deep learning to classify skin lesions with high precision, comparing five distinct architectures.**
 
 ---
 
